@@ -24,11 +24,19 @@ git push -u origin postensa2_
 git init
 <br>
 git remote add origin https://chuckcruz@github.com/hubcodice/postensa.git
+<br>
 git symbolic-ref HEAD refs/heads/postensa2_
+<br>
 git add .
+<br>
 git status
+<br>
 git rm --cached sitio_postensa_050215.zip
+<br>
 git status
+<br>
 git rm --cached error_log
+<br>
 git commit -m "Archivos de proyectosphp/postensa3 a git rama nueva"
+<br>
 git push -u origin postensa2_
