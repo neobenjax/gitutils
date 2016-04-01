@@ -22,6 +22,7 @@ git push -u origin postensa2_
 
 #comandos completos
 git init
+<br>
 git remote add origin https://chuckcruz@github.com/hubcodice/postensa.git
 git symbolic-ref HEAD refs/heads/postensa2_
 git add .
